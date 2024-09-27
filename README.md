@@ -1,15 +1,26 @@
 <div align="center">
-  <img src="https://i.imgur.com/p2uuZ9B.png" alt="Mario Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/mario-banner.png" alt="Mario Banner" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
-</div>
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://media.giphy.com/media/B4t3Vu075xlao/giphy.gif" width="100px" alt="Harry Potter">
+    </td>
+    <td align="center">
+      <h1>ParcivalDev</h1>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FEDE00&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://media.giphy.com/media/zlNxaqcsGPwly/giphy.gif" width="100px" alt="Voldemort">
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🧙‍♂️ Sobre Mí 🧙‍♂️</h2>
 
 <p align="center">
-  Soy un desarrollador junior recién graduado de DAM, listo para conquistar el reino del desarrollo de software. Como Mario en busca de la princesa, estoy en una misión para dominar nuevas tecnologías y crear aplicaciones asombrosas.
+  Soy un desarrollador junior recién graduado de DAM, fusionando la magia del código con la aventura de los videojuegos. Como Mario saltando entre mundos o Harry lanzando hechizos, estoy en una misión para crear experiencias digitales asombrosas.
 </p>
 
 <h2 align="center">🧪 Habilidades y Herramientas 🧪</h2>
@@ -26,47 +37,21 @@
 <h2 align="center">📊 Estadísticas 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=merko" alt="Estadísticas de GitHub de ParcivalDev">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=merko" alt="Racha de contribuciones de ParcivalDev">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=gruvbox" alt="Estadísticas de GitHub de ParcivalDev">
 </div>
 
 <h2 align="center">🏗️ Proyectos Principales 🏗️</h2>
 
 <div align="center">
   <a href="https://github.com/ParcivalDev/GalacticShooter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=GalacticShooter&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=GalacticShooter&theme=gruvbox" />
   </a>
   <a href="https://github.com/ParcivalDev/Probando_Flet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Probando_Flet&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Probando_Flet&theme=gruvbox" />
   </a>
 </div>
 
-<h2 align="center">🌟 Power-Ups 🌟</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" alt="Power-Up" width="100px">
-</div>
-
-<div align="center">
-  <details>
-    <summary>¡Haz clic para ver el Power-Up del día!</summary>
-    <br>
-    "En el mundo de Mario, ¿qué power-up te hace crecer?"
-    <br><br>
-    <details>
-      <summary>Ver respuesta</summary>
-      <br>
-      ¡El Super Champiñón! 🍄
-    </details>
-  </details>
-</div>
-
-<h2 align="center">🗺️ Mapa de Niveles Completados 🗺️</h2>
+<h2 align="center">🗺️ Mapa de Aventuras 🗺️</h2>
 
 <div align="center">
   <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones" width="100%">
@@ -87,9 +72,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Mario Fin" width="100%">
-</div>
-
-<div align="center">
-  <i>"¡Gracias por visitar mi perfil! La princesa está en otro castillo, pero el código está justo aquí."</i>
+  <i>"El código es como la magia: con la varita correcta, puedes hacer maravillas."</i>
 </div>
