@@ -1,24 +1,25 @@
-<h1 align="center">ParcivalDev: Desarrollador de Soluciones Mágicas 🧙‍♂️💻</h1>
+<h1 align="center">ParcivalDev: Aprendiz de Mago Digital 🧙‍♂️💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil+mágico;Desarrollador+Full+Stack;Entusiasta+de+la+Innovación;Creador+de+Soluciones+Digitales&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil+mágico;Desarrollador+Junior;Recién+graduado+de+DAM;En+busca+de+aventuras+digitales&center=true&width=380&height=50">
 </p>
 
-## Sobre Mí
+## 🔮 Sobre Mí
 
-Soy un desarrollador apasionado por crear soluciones innovadoras que parecen magia. Con un background inspirado en la literatura fantástica y la tecnología de vanguardia, busco transformar ideas complejas en experiencias digitales cautivadoras.
+Hola, soy ParcivalDev, un joven mago del código recién salido de la academia de Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente, estoy en mis prácticas, lanzando mis primeros hechizos en el mundo real del desarrollo. Mi misión es aprender, crecer y eventualmente crear magia digital que asombre al mundo.
 
-## Habilidades Mágicas (Tecnologías)
+## 🧪 Pociones que estoy aprendiendo a mezclar (Tecnologías)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-## Estadísticas Encantadas
+## 📊 Estadísticas de Aprendizaje
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de ParcivalDev">
@@ -28,39 +29,37 @@ Soy un desarrollador apasionado por crear soluciones innovadoras que parecen mag
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=tokyonight" alt="Racha de contribuciones de ParcivalDev">
 </p>
 
-## Proyectos Destacados
+## 🏗️ Proyectos en Construcción
 
-<p align="center">
-  <a href="[https://github.com/ParcivalDev/proyecto-1](https://github.com/ParcivalDev/Probando_Flet)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-1&theme=tokyonight" />
-  </a>
-  <a href="[https://github.com/ParcivalDev/proyecto-2](https://github.com/ParcivalDev/GalacticShooter)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-2&theme=tokyonight" />
-  </a>
-</p>
+- 🌟 **Proyecto Final DAM**: [Enlace al repositorio]
+  - Descripción breve del proyecto.
+- 🚀 **App Android con Kotlin**: [Enlace al repositorio]
+  - Pequeña aplicación desarrollada durante el curso.
+- 🐍 **Script de Python**: [Enlace al repositorio]
+  - Herramienta útil creada para practicar Python.
 
-## 🎮 Juego Mágico: Adivina el Número
+## 🎮 Mini Juego Mágico: Piedra, Papel, Tijeras, Lagarto, Spock
 
 <details>
 <summary>Haz clic para jugar</summary>
 
-Estoy pensando en un número entre 1 y 100. ¿Puedes adivinarlo?
+¿Te atreves a desafiar al asistente mágico? Elige tu movimiento:
 
-Para jugar, [abre un nuevo issue](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=Adivina%20el%20Número&body=Escribe%20tu%20intento%20aquí) con tu intento.
+- 🪨 [Piedra](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|piedra&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+piedra)
+- 📄 [Papel](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|papel&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+papel)
+- ✂️ [Tijeras](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|tijeras&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+tijeras)
+- 🦎 [Lagarto](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|lagarto&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+lagarto)
+- 🖖 [Spock](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|spock&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+spock)
 
 </details>
 
-## Efectos Mágicos
+## 🌌 Mapa de mi Viaje de Aprendizaje
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones Mágicas">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitantes+Encantados&color=blueviolet" alt="Contador de Visitantes">
-</p>
-
-## Contacto
+## 📡 Contacta Conmigo en el Mundo Digital
 
 <p align="center">
   <a href="https://linkedin.com/in/ParcivalDev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -71,5 +70,9 @@ Para jugar, [abre un nuevo issue](https://github.com/ParcivalDev/ParcivalDev/iss
 ---
 
 <p align="center">
-  <i>"Cualquier tecnología suficientemente avanzada es indistinguible de la magia." - Arthur C. Clarke</i>
+  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitantes+Encantados&color=blueviolet" alt="Contador de Visitantes">
+</p>
+
+<p align="center">
+  <i>"La magia es solo ciencia que aún no hemos entendido." - Arthur C. Clarke</i>
 </p>
