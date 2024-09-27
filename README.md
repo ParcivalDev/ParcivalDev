@@ -31,10 +31,10 @@ Soy un desarrollador apasionado por crear soluciones innovadoras que parecen mag
 ## Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/ParcivalDev/proyecto-1">
+  <a href="[https://github.com/ParcivalDev/proyecto-1](https://github.com/ParcivalDev/Probando_Flet)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ParcivalDev/proyecto-2">
+  <a href="[https://github.com/ParcivalDev/proyecto-2](https://github.com/ParcivalDev/GalacticShooter)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-2&theme=tokyonight" />
   </a>
 </p>
