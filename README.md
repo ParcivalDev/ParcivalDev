@@ -1,28 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&text=&height=100&section=header&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20ParcivalDev's%20Mushroom%20Kingdom!&descAlignY=51&descAlign=62" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&text=&height=100&section=header&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20ParcivalDev's%20Magical%20Realm!&descAlignY=51&descAlign=62" width="100%">
+</div>
+
+<div align="left">
+  🧙‍♂️
+</div>
+
+<div align="right">
+  🧙‍♀️
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Junior+Developer;Digital+Plumber+in+Training;Creator+of+Pixel+Perfect+Worlds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=435&lines=Junior+Developer;Apprentice+Archmage;Creator+of+Digital+Spells" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/YUFQ8cR.gif" alt="Mario Running" width="100%">
+  
+```
+  ⚡️   ⚔️   ⚡️
+ 🧙‍♂️ Magic Duel 🧙‍♀️
+    ⚡️ VS ⚡️
+```
+
 </div>
 
-<h2 align="center">🍄 About Me 🍄</h2>
+<h2 align="center">🔮 About Me 🔮</h2>
 
 <p align="center">
-  I'm a young code adventurer, fresh out of the Multiplatform Application Development Academy (DAM). Currently on my first quest, jumping through the pipes of real-world development. My mission is to learn, grow, and eventually create digital worlds that will amaze players... I mean, users!
+  I'm a young code sorcerer, fresh out of the Arcane Academy of Multiplatform Development (DAM). Currently on my first quest, casting spells in the realm of real-world development. My mission is to learn, grow, and eventually create digital enchantments that will amaze fellow mages... I mean, users!
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/QC5BT8P.gif" alt="Question Block" width="50%">
+
+```
+   _____
+  /     \
+ /       \
+|  O   O  |
+|    <    |
+ \  ___  /
+  \_____/
+```
+
 </div>
 
-<h2 align="center">🌟 Power-Ups I'm Collecting 🌟</h2>
+<h2 align="center">🌟 Spells I'm Mastering 🌟</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,29 +60,39 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/6n9ZVrE.gif" alt="Power-Up Animation" width="50%">
+
+```
+  /\
+ /  \
+/____\
+ |  |
+ |  |
+ |__|
+  \/
+```
+
 </div>
 
-<h2 align="center">📊 High Scores 📊</h2>
+<h2 align="center">📊 Arcane Achievements 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=gruvbox" alt="ParcivalDev's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=midnight-purple" alt="ParcivalDev's GitHub Stats">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=gruvbox" alt="ParcivalDev's Contribution Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=midnight-purple" alt="ParcivalDev's Contribution Streak">
 </div>
 
-<h2 align="center">🏰 Castles Under Construction 🏰</h2>
+<h2 align="center">🏰 Enchanted Towers Under Construction 🏰</h2>
 
 <div align="center">
   <a href="https://github.com/ParcivalDev/proyecto-final-dam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-final-dam&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-final-dam&theme=midnight-purple" />
   </a>
   <a href="https://github.com/ParcivalDev/app-android-kotlin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=app-android-kotlin&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=app-android-kotlin&theme=midnight-purple" />
   </a>
 </div>
 
@@ -68,21 +102,18 @@
   <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="100%">
 </div>
 
-<h2 align="center">🧠 Puzzle of the Day 🧠</h2>
+<h2 align="center">🧠 Riddle of the Day 🧠</h2>
 
 <div align="center">
   <details>
-    <summary>Click to reveal the puzzle</summary>
+    <summary>Click to reveal the riddle</summary>
     <br>
-    "I'm a famous video game character. I was born in the 80s, I love mushrooms, and I'm always trying to save a princess. Who am I?"
+    "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?"
     <br><br>
     <details>
       <summary>See answer</summary>
       <br>
-      It's-a me, Mario! 🍄
-      - Created in the 80s
-      - Mushrooms are power-ups
-      - Always saving Princess Peach
+      A map! 🗺️
     </details>
   </details>
 </div>
@@ -93,13 +124,13 @@
   <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="100%">
 </div>
 
-<h2 align="center">🌟 My Skill Tree 🌟</h2>
+<h2 align="center">🌟 My Spell Book 🌟</h2>
 
 <div align="center">
   <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
 </div>
 
-<h2 align="center">📡 Warp Pipes to My Digital World 📡</h2>
+<h2 align="center">📡 Magical Portals to My Digital Realm 📡</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/ParcivalDev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -110,19 +141,23 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitors+Welcomed&color=FFD700" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitors+Enchanted&color=6A0DAD" alt="Visitor Counter">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/YUFQ8cR.gif" alt="Mario Running" width="100%">
+
+```
+⚡️🧙‍♂️ VS 🧙‍♀️⚡️
+```
+
 </div>
 
 <div align="center">
-  <i>"It's dangerous to go alone! Take this." - The Legend of Zelda</i>
+  <i>"In the realm of code, every bug is just an undiscovered feature." - Ancient Developer Proverb</i>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%">
 </div>
