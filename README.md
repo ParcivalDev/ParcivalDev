@@ -1,59 +1,75 @@
-# 🕹️ Bienvenido al Oasis de ParcivalDev 🧙‍♂️
+<h1 align="center">ParcivalDev: Desarrollador de Soluciones Mágicas 🧙‍♂️💻</h1>
 
-![Banner](https://img.shields.io/badge/OASIS-READY-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC7SURBVHgBnZLBDcIwDEV/qg7ACLBBugEbMAIbwAZ0BEaADcoGZQPYADaADWADPxJRVZGgNjzJspP3nd8kBjwxZgO8kU2v1wkuqJBAApMqLk1cFcyaQAK6fMEEKr4wjyKCjCuQ7mCLCrQ5p34DHGMWtm1vwTVetDdR8IhZTNzFEXXRXk7qmxvGlJWIP3BHw2c8RLmZmMJJvLqJpt/6KptawlX3PXPXlJa0lxbrVHva2v72XZUv/+oPOX8mO/YJPSsAAAAASUVORK5CYII=)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil+mágico;Desarrollador+Full+Stack;Entusiasta+de+la+Innovación;Creador+de+Soluciones+Digitales&center=true&width=380&height=50">
+</p>
 
-## 🔮 "Es peligroso ir solo, toma esto" - ParcivalDev
+## Sobre Mí
 
-Soy un desarrollador inspirado por los mundos de Ready Player One y Harry Potter. Mi misión es crear magia digital y encontrar el Easter Egg en cada línea de código.
+Soy un desarrollador apasionado por crear soluciones innovadoras que parecen magia. Con un background inspirado en la literatura fantástica y la tecnología de vanguardia, busco transformar ideas complejas en experiencias digitales cautivadoras.
 
-### 🎮 Estadísticas de Jugador
+## Habilidades Mágicas (Tecnologías)
 
-```
-Nombre: ParcivalDev
-Clase: Mago Desarrollador
-Nivel: Aumentando diariamente
-Habilidades Especiales: Codificación Mágica, Búsqueda de Easter Eggs
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=dark&title_color=00b4d8&icon_color=00b4d8&text_color=e0fbfc&bg_color=20202a)
+## Estadísticas Encantadas
 
-### 🧪 Pociones (Lenguajes) Favoritas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de ParcivalDev">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParcivalDev&layout=compact&theme=dark&title_color=00b4d8&text_color=e0fbfc&bg_color=20202a)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=tokyonight" alt="Racha de contribuciones de ParcivalDev">
+</p>
 
-### 🗝️ Hechizos (Tecnologías) Dominados
+## Proyectos Destacados
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&color=20202a)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=20202a)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&color=20202a)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&color=20202a)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&color=20202a)
+<p align="center">
+  <a href="https://github.com/ParcivalDev/proyecto-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ParcivalDev/proyecto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-2&theme=tokyonight" />
+  </a>
+</p>
 
-### 🏆 Logros Desbloqueados
+## 🎮 Juego Mágico: Adivina el Número
 
-```
-[✔] Primer Commit
-[✔] Contribución a Proyecto Open Source
-[✔] Creación de API REST
-[ ] Ganar Hackathon
-[ ] Encontrar el Easter Egg Final
-```
+<details>
+<summary>Haz clic para jugar</summary>
 
-### 🌌 Mapa de Contribuciones del Oasis
+Estoy pensando en un número entre 1 y 100. ¿Puedes adivinarlo?
 
-![Contribuciones](https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake-dark.svg)
+Para jugar, [abre un nuevo issue](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=Adivina%20el%20Número&body=Escribe%20tu%20intento%20aquí) con tu intento.
 
-### 🧭 Búsqueda Actual
+</details>
 
-Estoy en una misión para crear el próximo gran videojuego que combine la magia de Harry Potter con la tecnología de Ready Player One. ¿Te unes a la aventura?
+## Efectos Mágicos
 
-### 📡 Contacta Conmigo en el Oasis
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones Mágicas">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=20202a)](https://www.linkedin.com/in/ParcivalDev/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=20202a)](https://twitter.com/ParcivalDev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitantes+Encantados&color=blueviolet" alt="Contador de Visitantes">
+</p>
+
+## Contacto
+
+<p align="center">
+  <a href="https://linkedin.com/in/ParcivalDev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/ParcivalDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:parcival@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-> "La realidad es aquello que, cuando dejas de creer en ello, no desaparece." - Philip K. Dick
-
-⚡️ Powered by ParcivalDev's Magic ⚡️
+<p align="center">
+  <i>"Cualquier tecnología suficientemente avanzada es indistinguible de la magia." - Arthur C. Clarke</i>
+</p>
