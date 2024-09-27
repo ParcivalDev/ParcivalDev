@@ -1,129 +1,78 @@
-# 🍄 ¡Bienvenido al Mundo de ParcivalDev! 🍄
+<h1 align="center">ParcivalDev: Aprendiz de Mago Digital 🧙‍♂️💻</h1>
 
-```
-    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀
-    ⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
-    ⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀
-    ⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-    ⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-    ⢰⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿
-    ⢸⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⡇
-    ⢸⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⡇
-    ⠘⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⠃
-    ⠀⠈⠻⢿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡿⠟⠁⠀
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+perfil+mágico;Desarrollador+Junior;Recién+graduado+de+DAM;En+busca+de+aventuras+digitales&center=true&width=380&height=50">
+</p>
 
-## 🕹️ Sobre Mí
+## 🔮 Sobre Mí
 
-Soy un desarrollador junior recién graduado de DAM, listo para conquistar el reino del desarrollo de software. Como Mario en busca de la princesa, estoy en una misión para dominar nuevas tecnologías y crear aplicaciones asombrosas.
+Hola, soy ParcivalDev, un joven mago del código recién salido de la academia de Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente, estoy en mis prácticas, lanzando mis primeros hechizos en el mundo real del desarrollo. Mi misión es aprender, crecer y eventualmente crear magia digital que asombre al mundo.
 
-## 🔧 Herramientas y Habilidades
+## 🧪 Pociones que estoy aprendiendo a mezclar (Tecnologías)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
-## 🏆 Estadísticas de Jugador
+## 📊 Estadísticas de Aprendizaje
 
-![Estadísticas de GitHub de ParcivalDev](https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=merko)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de ParcivalDev">
+</p>
 
-![Racha de contribuciones de ParcivalDev](https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=merko)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=tokyonight" alt="Racha de contribuciones de ParcivalDev">
+</p>
 
-## 🎮 Proyectos Principales
+## 🏗️ Proyectos en Construcción
 
-[![GalacticShooter](https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=GalacticShooter&theme=merko)](https://github.com/ParcivalDev/GalacticShooter)
-[![Probando_Flet](https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Probando_Flet&theme=merko)](https://github.com/ParcivalDev/Probando_Flet)
+- 🌟 **Proyecto Final DAM**: [Enlace al repositorio]
+  - Descripción breve del proyecto.
+- 🚀 **App Android con Kotlin**: [Enlace al repositorio]
+  - Pequeña aplicación desarrollada durante el curso.
+- 🐍 **Script de Python**: [Enlace al repositorio]
+  - Herramienta útil creada para practicar Python.
 
-## 🧠 Desafío del Día
-
-<details>
-<summary>¡Haz clic para ver el desafío!</summary>
-
-"En el mundo de Mario, ¿qué objeto te hace crecer?"
+## 🎮 Mini Juego Mágico: Piedra, Papel, Tijeras, Lagarto, Spock
 
 <details>
-<summary>Ver respuesta</summary>
+<summary>Haz clic para jugar</summary>
 
-¡El Super Champiñón! 🍄
+¿Te atreves a desafiar al asistente mágico? Elige tu movimiento:
+
+- 🪨 [Piedra](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|piedra&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+piedra)
+- 📄 [Papel](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|papel&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+papel)
+- ✂️ [Tijeras](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|tijeras&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+tijeras)
+- 🦎 [Lagarto](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|lagarto&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+lagarto)
+- 🖖 [Spock](https://github.com/ParcivalDev/ParcivalDev/issues/new?title=RPSLS|spock&body=Haz+clic+en+%27Submit+new+issue%27+para+jugar+spock)
+
 </details>
-</details>
 
-## 🗺️ Mapa de Niveles Completados
+## 🌌 Mapa de mi Viaje de Aprendizaje
 
-Para visualizar tu mapa de contribuciones, necesitas configurar una GitHub Action. Sigue estos pasos:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones Mágicas">
+</p>
 
-1. Crea un archivo `.github/workflows/snake.yml` en tu repositorio.
-2. Copia el siguiente contenido en el archivo:
+## 📡 Contacta Conmigo en el Mundo Digital
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ParcivalDev
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Guarda el archivo y haz commit de los cambios.
-4. Ve a la pestaña "Actions" en tu repositorio de GitHub y ejecuta manualmente el workflow "Generate Snake".
-5. Una vez completado, verás la animación en la rama `output` de tu repositorio.
-
-Después de configurar esto, reemplaza esta sección con:
-
-```markdown
-![Contribuciones](https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake.svg)
-```
-
-## 📬 Contacta Conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ParcivalDev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ParcivalDev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parcival@example.com)
+<p align="center">
+  <a href="https://linkedin.com/in/ParcivalDev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/ParcivalDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:parcival@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-![Contador de Visitantes](https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitantes&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitantes+Encantados&color=blueviolet" alt="Contador de Visitantes">
+</p>
 
-```
-     _____ _                 _         
-    |_   _| |__   __ _ _ __ | | _____  
-      | | | '_ \ / _` | '_ \| |/ / __| 
-      | | | | | | (_| | | | |   <\__ \ 
-      |_| |_| |_|\__,_|_| |_|_|\_\___/ 
-```
-
-"¡Gracias por visitar mi perfil! La princesa está en otro castillo, pero el código está justo aquí."
+<p align="center">
+  <i>"La magia es solo ciencia que aún no hemos entendido." - Arthur C. Clarke</i>
+</p>
