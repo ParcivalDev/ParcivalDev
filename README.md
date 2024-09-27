@@ -9,16 +9,7 @@
 <br>
 
 <div align="center">
-  
-```
-  /\
- /  \
-/____\  Varita Mágica
-  ||
-  ||
-  ||
-```
-
+  <img src="https://media.giphy.com/media/3o7btVYvxUMxrLC3xS/giphy.gif" alt="Varita mágica" width="100%">
 </div>
 
 <h2 align="center">🧙‍♂️ Sobre Mí 🧙‍♂️</h2>
@@ -28,18 +19,7 @@
 </p>
 
 <div align="center">
-  
-```
-   ____
-  /    \
- /      \
-|  ____  |
-| |    | |  Libro Mágico de Código
-| |____| |
-|        |
-|________|
-```
-
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" alt="Libro mágico" width="50%">
 </div>
 
 <h2 align="center">🧪 Pociones que estoy aprendiendo a mezclar 🧪</h2>
@@ -56,17 +36,7 @@
 <br>
 
 <div align="center">
-  
-```
-   _____
-  /     \
- /       \
-|  O   O  |  Caldero Mágico
-|    <    |
- \  ___  /
-  \_____/
-```
-
+  <img src="https://media.giphy.com/media/3o7btXJQm5DD8ApubC/giphy.gif" alt="Caldero mágico" width="50%">
 </div>
 
 <h2 align="center">📊 Estadísticas Mágicas 📊</h2>
@@ -146,16 +116,7 @@
 <br>
 
 <div align="center">
-  
-```
-  /\
- /  \
-/____\  Varita Mágica
-  ||
-  ||
-  ||
-```
-
+  <img src="https://media.giphy.com/media/3o7btVYvxUMxrLC3xS/giphy.gif" alt="Varita mágica" width="100%">
 </div>
 
 <div align="center">
