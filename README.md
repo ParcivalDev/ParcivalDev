@@ -1,16 +1,14 @@
-<h1 align="center">ParcivalDev's Magical Realm</h1>
-
 <div align="center">
   <table>
     <tr>
       <td align="center" width="45%">
-        🧙‍♂️
+        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/wizard.png" width="100" height="100" alt="Wizard">
       </td>
       <td align="center" width="10%">
-        <img src="https://img.shields.io/badge/%E2%9A%A1--%E2%9A%A1-yellow?style=for-the-badge" alt="Lightning">
+        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/lightning.png" width="50" height="50" alt="Lightning">
       </td>
       <td align="center" width="45%">
-        🦹
+        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/dragon.png" width="100" height="100" alt="Dragon">
       </td>
     </tr>
     <tr>
@@ -21,6 +19,8 @@
   </table>
 </div>
 
+<h1 align="center">ParcivalDev's Magical Realm of Code</h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FEDE00&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
 </div>
@@ -28,7 +28,7 @@
 <h2 align="center">🧙‍♂️ Sobre Mí 🧙‍♂️</h2>
 
 <p align="center">
-  Soy un desarrollador junior recién graduado de DAM, fusionando la magia del código con la aventura de los videojuegos. Como un mago enfrentándose a desafíos, estoy en una misión para crear experiencias digitales asombrosas y derrotar bugs con mis hechizos de código.
+  Soy un desarrollador junior recién graduado de DAM, fusionando la magia del código con la aventura de los videojuegos. Como un mago enfrentándose a dragones de bugs, estoy en una misión para crear experiencias digitales asombrosas y derrotar desafíos con mis hechizos de código.
 </p>
 
 <h2 align="center">🧪 Hechizos y Pociones (Habilidades) 🧪</h2>
