@@ -55,9 +55,11 @@ Hola, soy ParcivalDev, un joven mago del código recién salido de la academia d
 
 ## 🌌 Mapa de mi Viaje de Aprendizaje
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones Mágicas">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 📡 Contacta Conmigo en el Mundo Digital
 
