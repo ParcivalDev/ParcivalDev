@@ -1,14 +1,14 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="45%">
-        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/wizard.png" width="100" height="100" alt="Wizard">
+      <td align="center" width="40%">
+        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/wizard-icon.png" width="100" height="100" alt="Wizard">
       </td>
-      <td align="center" width="10%">
-        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/lightning.png" width="50" height="50" alt="Lightning">
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/animated-line.gif" width="50" height="100" alt="Animated Line">
       </td>
-      <td align="center" width="45%">
-        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/dragon.png" width="100" height="100" alt="Dragon">
+      <td align="center" width="40%">
+        <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/dragon-icon.png" width="100" height="100" alt="Dragon">
       </td>
     </tr>
     <tr>
@@ -19,7 +19,7 @@
   </table>
 </div>
 
-<h1 align="center">ParcivalDev's Magical Realm of Code</h1>
+<h1 align="center">ParcivalDev's Código Mágico</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FEDE00&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
@@ -28,10 +28,10 @@
 <h2 align="center">🧙‍♂️ Sobre Mí 🧙‍♂️</h2>
 
 <p align="center">
-  Soy un desarrollador junior recién graduado de DAM, fusionando la magia del código con la aventura de los videojuegos. Como un mago enfrentándose a dragones de bugs, estoy en una misión para crear experiencias digitales asombrosas y derrotar desafíos con mis hechizos de código.
+  Desarrollador junior recién graduado de DAM, fusionando la magia del código con la aventura del desarrollo. Enfrentando bugs como un mago enfrenta dragones, creando experiencias digitales asombrosas con cada línea de código.
 </p>
 
-<h2 align="center">🧪 Hechizos y Pociones (Habilidades) 🧪</h2>
+<h2 align="center">🧪 Arsenal Mágico (Habilidades) 🧪</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,13 +42,13 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
-<h2 align="center">📊 Poder Mágico (Estadísticas) 📊</h2>
+<h2 align="center">📊 Poder del Código (Estadísticas) 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub de ParcivalDev">
 </div>
 
-<h2 align="center">🏰 Reinos Conquistados (Proyectos) 🏰</h2>
+<h2 align="center">🏰 Misiones Completadas (Proyectos) 🏰</h2>
 
 <div align="center">
   <a href="https://github.com/ParcivalDev/GalacticShooter">
@@ -59,13 +59,13 @@
   </a>
 </div>
 
-<h2 align="center">🗺️ Mapa de Aventuras 🗺️</h2>
+<h2 align="center">🗺️ Mapa de Conquistas 🗺️</h2>
 
 <div align="center">
   <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones" width="100%">
 </div>
 
-<h2 align="center">📬 Invócame 📬</h2>
+<h2 align="center">📬 Invoca mi Presencia 📬</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/ParcivalDev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -80,5 +80,5 @@
 </div>
 
 <div align="center">
-  <i>"En el gran duelo entre el desarrollador y los bugs, que la magia del código esté siempre de tu lado."</i>
+  <i>"En la batalla entre el desarrollador y los bugs, el código es mi varita mágica."</i>
 </div>
