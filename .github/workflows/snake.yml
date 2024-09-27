@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Custom Snake
 
 on:
   schedule:
@@ -19,9 +19,19 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.gif?color_snake=#E52521&color_dots=#FBD000,#22B14C,#00A2E8,#ED1C24,#A349A4
+          snake_color: "#E52521"
+          snake_pattern: |
+            ["..........",
+             ".X...X....",
+             "..X.X.....",
+             "...X......",
+             "..X.X.....",
+             ".X...X....",
+             "..........",
+             "..........",
+             "..XXXXX...",
+             "..X...X..."]
 
       - uses: actions/upload-artifact@v3
         with:
