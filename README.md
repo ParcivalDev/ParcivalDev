@@ -2,12 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&text=&height=100&section=header&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20ParcivalDev's%20Magical%20Realm!&descAlignY=51&descAlign=62" width="100%">
 </div>
 
-<div align="left">
-  🧙‍♂️
-</div>
-
-<div align="right">
-  🧙‍♀️
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wizard_in_blue_robes_and_conical_hat.png/640px-Wizard_in_blue_robes_and_conical_hat.png" width="150" height="150" alt="Mage">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lightning_striking_the_Eiffel_Tower_-_NOAA.jpg/640px-Lightning_striking_the_Eiffel_Tower_-_NOAA.jpg" width="150" height="150" alt="Lightning">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gandalf_-_Nuno_Ant%C3%B3nio.png/640px-Gandalf_-_Nuno_Ant%C3%B3nio.png" width="150" height="150" alt="Mage">
 </div>
 
 <div align="center">
@@ -16,23 +14,13 @@
 
 <br>
 
-<div align="center">
-  
-```
-  ⚡️   ⚔️   ⚡️
- 🧙‍♂️ Magic Duel 🧙‍♀️
-    ⚡️ VS ⚡️
-```
-
-</div>
-
 <h2 align="center">🔮 About Me 🔮</h2>
 
 <p align="center">
   I'm a young code sorcerer, fresh out of the Arcane Academy of Multiplatform Development (DAM). Currently on my first quest, casting spells in the realm of real-world development. My mission is to learn, grow, and eventually create digital enchantments that will amaze fellow mages... I mean, users!
 </p>
 
-<div align="center">
+<!-- El resto del README continúa igual... -->
 
 ```
    _____
