@@ -53,13 +53,38 @@ Hola, soy ParcivalDev, un joven mago del código recién salido de la academia d
 
 </details>
 
-## 🌌 Mapa de mi Viaje de Aprendizaje
+## 🏰 Mapa del Reino Champiñón (Mis Contribuciones)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/github-contribution-grid-snake.svg" />
-</picture>
+```
+    🏁
+    🚩🏰
+   🔶🔶🔶
+  🔶🔶🔶🔶
+ 🔶🔶🔶🔶🔶
+🔲🔲🔲🔲🔲🔲
+┗━━━━━━━━━┛
+
+🔲 = 0-3 contribuciones
+🔶 = 4-10 contribuciones
+🚩 = 11-20 contribuciones
+🏰 = 21+ contribuciones
+```
+
+Este "Mapa del Reino Champiñón" representa tus contribuciones:
+- Cada bloque 🔲 representa días con 0-3 contribuciones
+- Cada moneda 🔶 representa días con 4-10 contribuciones
+- Cada bandera 🚩 representa días con 11-20 contribuciones
+- Cada castillo 🏰 representa días con 21 o más contribuciones
+
+¡Ayuda a Mario a llegar a la bandera haciendo más contribuciones! 🏁
+
+
+## 🍄 Power-Ups de Desarrollo
+
+- 🌟 Estrellas (Repositorios): ![Repositorios](https://img.shields.io/badge/dynamic/json?color=yellow&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FParcivalDev&logo=github)
+- 🍄 Super Champiñones (Seguidores): ![Seguidores](https://img.shields.io/badge/dynamic/json?color=blue&label=Seguidores&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FParcivalDev&logo=github)
+- 🪙 Monedas (Contribuciones Totales): ![Contribuciones](https://img.shields.io/badge/dynamic/json?color=green&label=Contribuciones&query=total&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DParcivalDev%26type%3Djson&logo=github)
+- 🏆 Trofeos: [![Trofeos](https://github-profile-trophy.vercel.app/?username=ParcivalDev&row=1&column=6&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📡 Contacta Conmigo en el Mundo Digital
 
