@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
 </div>
@@ -6,18 +5,17 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Varita mágica" width="100%">
+  <!-- Aquí puedes colocar imágenes de los dos magos -->
+  <img src="magician_left.png" alt="Mago de la izquierda" width="45%">
+  <img src="rayo.png" alt="Rayo conectando a los magos" width="10%">
+  <img src="magician_right.png" alt="Mago de la derecha" width="45%">
 </div>
 
 <h2 align="center">🧙‍♂️ Sobre Mí 🧙‍♂️</h2>
 
 <p align="center">
-  Soy un joven hechicero del código, recién graduado de la Academia de Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente, estoy en mis prácticas, lanzando mis primeros hechizos en el mundo real del desarrollo. Mi misión es aprender, crecer y eventualmente crear magia digital que asombre al mundo.
+  ¡Saludos! Soy un aprendiz de mago en el mundo del código, especializado en desarrollo multiplataforma. Actualmente, estoy en mis primeras misiones creando hechizos (o aplicaciones) para hacer el mundo digital un lugar más asombroso. 
 </p>
-
-<div align="center">
-  <img src="https://i.imgur.com/Yr11Vxd.gif" alt="Libro mágico" width="50%">
-</div>
 
 <h2 align="center">🧪 Pociones que estoy aprendiendo a mezclar 🧪</h2>
 
@@ -30,19 +28,11 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://i.imgur.com/QckxArh.gif" alt="Caldero mágico" width="50%">
-</div>
-
 <h2 align="center">📊 Estadísticas Mágicas 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de ParcivalDev">
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=tokyonight" alt="Racha de contribuciones de ParcivalDev">
@@ -59,12 +49,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separador" width="100%">
-</div>
-
 <h2 align="center">🧠 Acertijo Mágico del Día 🧠</h2>
 
 <div align="center">
@@ -77,17 +61,8 @@
       <summary>Ver respuesta</summary>
       <br>
       ¡Java! ☕
-      - Creado en los 90s
-      - Nombrado por la isla de Java
-      - El logo es una taza de café
     </details>
   </details>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separador" width="100%">
 </div>
 
 <h2 align="center">🌌 Mapa de mi Viaje de Aprendizaje 🌌</h2>
@@ -104,22 +79,10 @@
   <a href="mailto:parcival@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitantes+Encantados&color=blueviolet" alt="Contador de Visitantes">
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Varita mágica" width="100%">
-</div>
-
 <div align="center">
   <i>"La magia es solo ciencia que aún no hemos entendido." - Arthur C. Clarke</i>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
