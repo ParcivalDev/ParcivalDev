@@ -1,20 +1,35 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Creador+de+Soluciones+Digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/main/mario.gif" alt="Mario Coding" width="100%">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario Saltando" width="100%">
 </div>
 
----
+# 🧙‍♂️ Parcival | Desarrollador Junior & Hechicero Digital 🧙‍♂️
 
-## 👨‍💻 Sobre Mí
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+</div>
 
-Desarrollador junior graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Actualmente en prácticas, enfocado en aprender y crecer en el mundo del desarrollo de software.
+## 🌟 Sobre Mí
 
----
+¡Saludos, aventureros del reino digital! Soy Parcival, un apasionado desarrollador junior especializado en magia multiplataforma. Armado con curiosidad y determinación, estoy en una misión para transformar ideas en experiencias digitales cautivadoras.
 
-## 🛠️ Tecnologías y Herramientas
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
+</div>
+
+## 🧪 Pociones que estoy aprendiendo a mezclar
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/RrLRroNW1EcfQ4zwIc/giphy.gif" width="100" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,41 +40,48 @@ Desarrollador junior graduado en **Desarrollo de Aplicaciones Multiplataforma (D
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
----
-
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas Mágicas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=tokyonight" alt="Estadísticas GitHub ParcivalDev">
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=tokyonight" alt="Racha de contribuciones de ParcivalDev">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub de ParcivalDev" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=radical" alt="Racha de contribuciones de ParcivalDev" width="48%" />
 </div>
 
----
-
-## 🚀 Proyectos Destacados
+## 🏗️ Proyectos en Construcción
 
 <div align="center">
   <a href="https://github.com/ParcivalDev/proyecto-final-dam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-final-dam&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-final-dam&theme=radical" />
   </a>
   <a href="https://github.com/ParcivalDev/app-android-kotlin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=app-android-kotlin&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=app-android-kotlin&theme=radical" />
   </a>
 </div>
 
----
+## 🧠 Acertijo Mágico del Día
 
-## 🌐 Idiomas
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300" />
+</div>
 
-- 🇪🇸 Español (Nativo)
-- 🇬🇧 Inglés (Avanzado)
-- 🇫🇷 Francés (Básico)
+<details>
+  <summary>🔮 Haz clic para revelar el acertijo</summary>
+  
+  > "Soy un lenguaje de programación. Nací en los años 90, llevo el nombre de una isla y me encanta el café. ¿Quién soy?"
+  
+  <details>
+    <summary>✨ Revelar la respuesta</summary>
+    ¡Java! ☕
+  </details>
+</details>
 
----
+## 🌌 Mapa de mi Viaje de Aprendizaje
 
-## 📫 Contacto
+<div align="center">
+  <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones Mágicas" width="100%">
+</div>
+
+## 📡 Contacta Conmigo en el Mundo Digital
 
 <div align="center">
   <a href="https://linkedin.com/in/ParcivalDev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -67,12 +89,12 @@ Desarrollador junior graduado en **Desarrollo de Aplicaciones Multiplataforma (D
   <a href="mailto:parcival@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitas+al+Perfil&color=blueviolet" alt="Contador de visitantes">
+  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&label=Visitantes+Encantados&color=blueviolet" alt="Contador de Visitantes">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="300" />
+  <br>
+  <i>"La magia que buscas está en el código que escribes." - Parcival</i>
 </div>
