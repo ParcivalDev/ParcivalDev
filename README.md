@@ -5,11 +5,13 @@
 <br>
 
 <div align="center">
-  <!-- Aquí puedes colocar imágenes de los dos magos -->
-  <img src="magician_left.png" alt="Mago de la izquierda" width="45%">
-  <img src="rayo.png" alt="Rayo conectando a los magos" width="10%">
-  <img src="magician_right.png" alt="Mago de la derecha" width="45%">
+  <h2>✨ Magical Coding Duel ✨</h2>
+  <img src="https://www.kindpng.com/imgv/iRiRoT_harry-potter-voldemort-png-transparent-png.png" width="40%" />
+  <img src="https://www.kindpng.com/picc/m/27-274383_harry-potter-voldemort-png-transparent-png.png" width="10%" alt="Lightning bolt"/>
+  <img src="https://www.kindpng.com/imgv/iRiRoT_harry-potter-voldemort-png-transparent-png.png" width="40%" />
+  <h4>Two Wizards, One Epic Duel: Who Will Prevail?</h4>
 </div>
+
 
 <h2 align="center">🧙‍♂️ Sobre Mí 🧙‍♂️</h2>
 
