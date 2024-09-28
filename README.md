@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-
 <br>
 
 <div align="center">
@@ -61,16 +60,6 @@
 
 <div align="center">
   <i>"La magia que buscas está en el código que escribes." - Parcival</i>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
 <p align="center">
