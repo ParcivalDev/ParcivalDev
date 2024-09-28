@@ -5,8 +5,9 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Apasionado+por+el+Dise%C3%B1o+Visual;Futuro+Creador+de+Apps+y+Juegos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=500&lines=Desarrollador+Junior;Apasionado+por+el+Dise%C3%B1o+Visual;Futuro+Creador+de+Apps+y+Juegos" alt="Typing SVG" />
 </div>
+
 <br>
 
 
