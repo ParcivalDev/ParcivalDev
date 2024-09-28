@@ -1,8 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario Saltando" width="100%">
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="100" alt="Mario Confundido">
   <img src="https://i.gifer.com/ZNec.gif" width="100" alt="Estrella de Mario">
 </div>
 
