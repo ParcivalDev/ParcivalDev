@@ -8,7 +8,7 @@
 
 # 🧙‍♂️ Parcival | Desarrollador Junior
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,14 +19,22 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
-## 📊 Estadísticas Mágicas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub de ParcivalDev" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=radical" alt="Racha de contribuciones de ParcivalDev" width="48%" />
 </div>
 
-## 🚀 Proyectos Estelares
+## 🏗️ Proyectos en Construcción 🏗️
+
+<div align="center">
+  <a href="https://github.com/ParcivalDev/proyecto-final-dam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-final-dam&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ParcivalDev/app-android-kotlin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=app-android-kotlin&theme=tokyonight" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/ParcivalDev/GalacticShooter">
@@ -37,19 +45,11 @@
   </a>
 </div>
 
-## 🌌 Mapa de Contribuciones Mágicas
 
 <div align="center">
   <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones Mágicas" width="100%">
 </div>
 
-## 📫 Invocación de Contacto
-
-<div align="center">
-  <a href="https://linkedin.com/in/ParcivalDev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/ParcivalDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:parcival@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ParcivalDev&color=blueviolet" alt="Contador de Visitantes">
@@ -59,8 +59,3 @@
   <i>"La magia que buscas está en el código que escribes." - Parcival</i>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</div>
