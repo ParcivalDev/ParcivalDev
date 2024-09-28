@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
 </div>
 
-# 🧙‍♂️ Parcival | Desarrollador Junior
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
@@ -26,15 +25,6 @@
 </div>
 
 ## 🏗️ Proyectos en Construcción 🏗️
-
-<div align="center">
-  <a href="https://github.com/ParcivalDev/proyecto-final-dam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=proyecto-final-dam&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ParcivalDev/app-android-kotlin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=app-android-kotlin&theme=tokyonight" />
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/ParcivalDev/GalacticShooter">
