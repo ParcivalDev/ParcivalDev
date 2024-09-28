@@ -5,8 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=500&lines=Desarrollador+Junior;Apasionado+por+el+Dise%C3%B1o+Visual;Explorando+el+Desarrollo+de+Apps+y+Videojuegos" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=600&lines=Desarrollador+Junior;Apasionado+por+el+Dise%C3%B1o+Visual;Explorando+el+Desarrollo+de+Apps+y+Videojuegos" alt="Typing SVG" />
 
 <br>
 
@@ -66,8 +65,8 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces.+-+Steve+Jobs;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo.+-+Peter+Drucker;Un+buen+programador+es+alguien+que+siempre+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico.+-+Doug+Linder" alt="Frases Inspiradoras" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=F7A41D&center=true&vCenter=true&width=950&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces.+-+Steve+Jobs;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo.+-+Peter+Drucker;Un+buen+programador+es+alguien+que+siempre+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico.+-+Doug+Linder" alt="Frases Inspiradoras" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
