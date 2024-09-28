@@ -8,8 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Apasionado+por+el+Dise%C3%B1o+Visual;Futuro+Creador+de+Apps+y+Juegos" alt="Typing SVG" />
 </div>
 <br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo;One+day+or+day+one%3F+You+decide;Mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico" alt="Frases Inspiradoras" />
+
 
 
 <br>
@@ -64,9 +63,8 @@
 </div>
 
 <br>
-
 <div align="center">
-  <i>"La magia que buscas está en el código que escribes." - Parcival</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Haz+un+gran+trabajo+amando+lo+que+haces;Predice+el+futuro+cre%C3%A1ndolo;One+day+or+day+one%3F+You+decide;Mira+a+ambos+lados+al+cruzar+una+calle+de+sentido+%C3%BAnico" alt="Frases Inspiradoras" />
 </div>
 
 <p align="center">
