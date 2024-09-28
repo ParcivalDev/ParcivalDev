@@ -42,12 +42,10 @@
 
 ## 🏗️ Proyectos en Construcción 🏗️
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/ParcivalDev/GalacticShooter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=GalacticShooter&theme=radical" />
   </a>
-</div>
-<div align="center" style="margin-top: 16px;">
   <a href="https://github.com/ParcivalDev/Probando_Flet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Probando_Flet&theme=radical" />
   </a>
