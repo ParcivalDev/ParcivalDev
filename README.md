@@ -1,21 +1,26 @@
 <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario Saltando" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Aprendiz+de+Mago+Digital;Creador+de+Experiencias+M%C3%A1gicas" alt="Typing SVG" />
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario programando" width="100%">
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=585BF7&center=true&vCenter=true&width=435&lines=Desarrollador+Junior;Apasionado+por+el+Dise%C3%B1o+Visual;Futuro+Creador+de+Apps+y+Juegos" alt="Typing SVG" />
+</div>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo;One+day+or+day+one%3F+You+decide;Mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico" alt="Frases Inspiradoras" />
+
+
+<br>
+
 <div>
-  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
+  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
   &nbsp;<h2>Skills</h2>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,12 +30,14 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub de ParcivalDev" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=radical" alt="Racha de contribuciones de ParcivalDev" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParcivalDev&theme=radical" alt="Racha de contribuciones" width="48%" />
 </div>
 
+<br>
 <br>
 
 ## 🏗️ Proyectos en Construcción 🏗️
@@ -47,7 +54,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones Mágicas" width="100%">
+  <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones" width="100%">
 </div>
 
 <br>
