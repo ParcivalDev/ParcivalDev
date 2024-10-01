@@ -46,7 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=GalacticShooter&theme=radical" />
   </a>
   <a href="https://github.com/ParcivalDev/Probando_Flet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Probando_Flet&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Flet&theme=radical" />
   </a>
 </div>
 
