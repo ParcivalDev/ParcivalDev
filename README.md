@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=585BF7&center=true&vCenter=true&width=700&lines=Desarrollador+Aplicaciones+Multiplataforma;Explorando el Desarrollo+de+Apps+y+Videojuegos;Comprometido con el aprendizaje continuo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=585BF7&center=true&vCenter=true&width=700&lines=Desarrollador+Aplicaciones+Multiplataforma;Explorando+el+Desarrollo+de+Apps+y+Videojuegos;Comprometido+con+el+aprendizaje+continuo" alt="Typing SVG" />
 </div>
 
 <br>
