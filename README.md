@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ParcivalDev&theme=whatsapp-dark&locale=es&date_format=j%20M%5B%20Y%5D&fire=EB5618)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ParcivalDev&theme=whatsapp-dark&locale=es&date_format=j%20M%5B%20Y%5D&fire=EB5618" alt="Racha GitHub" />
 </div>
 
 <br>
