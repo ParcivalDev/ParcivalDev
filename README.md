@@ -32,8 +32,8 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ParcivalDev&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D&fire=EB5618&card_width=495&height=195" alt="Racha GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ParcivalDev&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D&fire=EB5618&card_width=495&height=195" alt="Racha GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical&height=195" alt="Estadísticas de GitHub" width="48%" />
 </div>
 
 <br>
