@@ -33,7 +33,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ParcivalDev&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.vercel.app/?user=ParcivalDev&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParcivalDev&layout=compact&theme=radical" alt="Top Langs" width="48%" />
 </div>
 
 <br>
