@@ -32,10 +32,8 @@
 <br>
 
 <div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ParcivalDev&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ParcivalDev&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
