@@ -46,13 +46,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=GalacticShooter&theme=radical" />
   </a>
   <a href="https://github.com/ParcivalDev/FitCoach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Flet&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=FitCoach&theme=radical" />
   </a>
   <a href="https://github.com/ParcivalDev/Flet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Flet&theme=radical" />
   </a>
-  <a href="https://github.com/ParcivalDev/Flet.Login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Flet&theme=radical" />
+  <a href="https://github.com/ParcivalDev/Flet-Login">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Flet-Login&theme=radical" />
   </a>
 </div>
 
