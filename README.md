@@ -45,9 +45,34 @@
   <a href="https://github.com/ParcivalDev/GalacticShooter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=GalacticShooter&theme=radical" />
   </a>
-  <a href="https://github.com/ParcivalDev/Probando_Flet">
+  <a href="https://github.com/ParcivalDev/FitCoach">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=FitCoach&theme=radical" />
+  </a>
+  <a href="https://github.com/ParcivalDev/Flet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Flet&theme=radical" />
+  </a>
+  <a href="https://github.com/ParcivalDev/Flet-Login">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParcivalDev&repo=Flet-Login&theme=radical" />
   </a>
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&color=blueviolet" alt="Contador de Visitantes">
+</div>
+
+
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=6000&pause=2000&color=F7A41D&center=true&vCenter=true&width=950&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces.+-+Steve+Jobs;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo.+-+Peter+Drucker;Un+buen+programador+es+alguien+que+siempre+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico.+-+Doug+Linder;One+day+or+day+one%3F+You+decide." alt="Frases Inspiradoras" />
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
+</p>
