@@ -5,14 +5,10 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=585BF7&center=true&vCenter=true&width=700&lines=Desarrollador+Aplicaciones+Multiplataforma;Explorando+el+Desarrollo+de+Apps+y+Videojuegos;Comprometido+con+el+aprendizaje+continuo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=585BF7¢er=true&vCenter=true&width=700&lines=Desarrollador+Aplicaciones+Multiplataforma;Explorando+el+Desarrollo+de+Apps+y+Videojuegos;Comprometido+con+el+aprendizaje+continuo" alt="Typing SVG" />
 </div>
 
-<br>
-
-
-
-<br>
+<br><br>
 
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" style="vertical-align: middle;">
@@ -30,25 +26,27 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   
   <!-- Bases de datos -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   
-  <!-- Frameworks -->
+  <!-- Frameworks y otras tecnologías -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
-<br>
-<br>
+
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParcivalDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%" height="195" />
   <img src="https://streak-stats.vercel.app/?user=ParcivalDev&theme=radical" alt="GitHub Streak" width="48%" height="195" />
 </div>
 
-<br>
-<br>
+<br><br>
 
 ## 🏗️ Proyectos 🏗️
 
@@ -80,14 +78,15 @@
   <a href="https://www.linkedin.com/in/tu-usuario-de-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <img src="https://img.shields.io/badge/Contáctame-0A66C2?style=for-the-badge" alt="Contáctame" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=6000&pause=2000&color=F7A41D&center=true&vCenter=true&width=950&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces.+-+Steve+Jobs;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo.+-+Peter+Drucker;Un+buen+programador+es+alguien+que+siempre+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico.+-+Doug+Linder;One+day+or+day+one%3F+You+decide." alt="Frases Inspiradoras" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=6000&pause=2000&color=F7A41D¢er=true&vCenter=true&width=950&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces.+-+Steve+Jobs;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo.+-+Peter+Drucker;Un+buen+programador+es+alguien+que+siempre+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico.+-+Doug+Linder;One+day+or+day+one%3F+You+decide." alt="Frases Inspiradoras" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60§ion=footer&width=100%"/>
 </p>
