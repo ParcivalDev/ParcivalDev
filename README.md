@@ -69,13 +69,18 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&color=blueviolet" alt="Contador de Visitantes">
   <a href="https://www.linkedin.com/in/borja-rivas" title="Contáctame">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:borjarivasdev@gmail.com" title="Envíame un correo">
     <img src="https://img.shields.io/badge/Correo-eletrónico-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParcivalDev&color=blueviolet" alt="Contador de Visitantes">
 </div>
 
 <br>
