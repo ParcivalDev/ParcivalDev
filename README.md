@@ -70,14 +70,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ParcivalDev&color=blueviolet" alt="Contador de Visitantes">
-  <a href="https://www.linkedin.com/in/tu-usuario-de-linkedin">
-  <span style="background-color: #0077B5; color: white; padding: 5px; border-radius: 5px; font-size: 14px;">
-    LINKEDIN
-  </span>
-  <span style="background-color: #FFC107; color: black; padding: 2px 5px; border-radius: 5px; margin-left: 5px; font-size: 12px;">
-    Contáctame
-  </span>
-</a>
+  <a href="https://www.linkedin.com/in/borja-rivas" title="Contáctame">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:borjarivasdev@gmail.com" title="Envíame un correo">
+    <img src="https://img.shields.io/badge/Correo-eletrónico-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
+  </a>
 </div>
 
 <br>
