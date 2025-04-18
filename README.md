@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=585BF7¢er=true&vCenter=true&width=700&lines=Desarrollador+Aplicaciones+Multiplataforma;Explorando+el+Desarrollo+de+Apps+y+Videojuegos;Comprometido+con+el+aprendizaje+continuo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=585BF7&vCenter=true&width=700&lines=Desarrollador+de+Aplicaciones+Multiplataforma;Explorando+el+desarrollo+de+apps%2C+videojuegos+y+webs;Comprometido+con+el+aprendizaje+continuo" alt="Typing SVG" />
 </div>
 
 <br><br>
@@ -86,7 +86,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=6000&pause=2000&color=F7A41D¢er=true&vCenter=true&width=950&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces.+-+Steve+Jobs;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo.+-+Peter+Drucker;Un+buen+programador+es+alguien+que+siempre+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico.+-+Doug+Linder;One+day+or+day+one%3F+You+decide." alt="Frases Inspiradoras" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=6000&pause=2000&color=F7A41D&vCenter=true&width=950&lines=El+%C3%BAnico+modo+de+hacer+un+gran+trabajo+es+amar+lo+que+haces.+-+Steve+Jobs;La+mejor+forma+de+predecir+el+futuro+es+cre%C3%A1ndolo.+-+Peter+Drucker;Un+buen+programador+es+alguien+que+siempre+mira+a+ambos+lados+antes+de+cruzar+una+calle+de+sentido+%C3%BAnico.+-+Doug+Linder;One+day+or+day+one%3F+You+decide." alt="Frases Inspiradoras" />
 </div>
 
 <p align="center">
