@@ -4,6 +4,15 @@
 
 <br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<br />
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=585BF7&width=800&lines=Desarrollador+de+Aplicaciones+Multiplataforma;Explorando+el+desarrollo+de+apps%2C+videojuegos+y+webs;Comprometido+con+el+aprendizaje+continuo" alt="Typing SVG" />
 </div>
