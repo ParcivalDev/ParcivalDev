@@ -1,5 +1,4 @@
 name: Generate Custom Snake
-
 on:
   schedule:
     - cron: "0 0 * * 0"
@@ -12,6 +11,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: output
+          
       - uses: Platane/snk@v3.2
         id: snake-gif
         with:
@@ -32,6 +34,14 @@ jobs:
              "..........",
              "..XXXXX...",
              "..X...X..."]
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
 
       - uses: actions/upload-artifact@v4
         with:
