@@ -11,9 +11,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: output
-          
+      
       - uses: Platane/snk@v3.2
         id: snake-gif
         with:
@@ -22,27 +20,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=#E52521&color_dots=#FBD000,#22B14C,#00A2E8,#ED1C24,#A349A4
-          snake_color: "#E52521"
-          snake_pattern: |
-            ["..........",
-             ".X...X....",
-             "..X.X.....",
-             "...X......",
-             "..X.X.....",
-             ".X...X....",
-             "..........",
-             "..........",
-             "..XXXXX...",
-             "..X...X..."]
       
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add dist/
-          git commit -m "Update snake animation" || echo "No changes to commit"
-          git push
-
+      - name: push to snake-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: snake-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
       - uses: actions/upload-artifact@v4
         with:
           name: snake-graphics
