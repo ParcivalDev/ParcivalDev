@@ -72,7 +72,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/ParcivalDev/ParcivalDev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuciones" width="100%">
+  <img src="https://raw.githubusercontent.com/ParcivalDev/ParcivalDev/snake-output/github-contribution-grid-snake-dark.svg" alt="Contribuciones" width="100%">
 </div>
 
 <br>
